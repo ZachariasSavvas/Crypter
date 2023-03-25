@@ -1,2 +1,3 @@
 # Crypter
-AES ENCRYPTION DECRYPTION
+AES ENCRYPTION/DECRYPTION with hashed password
+Please install pycrypto first
